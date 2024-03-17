@@ -1,0 +1,19 @@
+.text-uppercase {
+    text-transform: uppercase;
+   
+}
+a {
+    color:#af0909; 
+    padding:8px 5px 5px 5px;
+    border-radius:30px;
+     display:inline-block;
+    text-decoration: none;
+    
+}
+input{
+    margin-top: 10px;
+}
+
+.mybg{
+    background-color: #b41515;
+}
